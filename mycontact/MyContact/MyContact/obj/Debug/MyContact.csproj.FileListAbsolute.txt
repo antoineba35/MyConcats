@@ -1,0 +1,10 @@
+C:\Users\antoi\Documents\programmation\langages\c#\mycontact\MyContact\MyContact\bin\Debug\MyContact.exe.config
+C:\Users\antoi\Documents\programmation\langages\c#\mycontact\MyContact\MyContact\bin\Debug\MyContact.exe
+C:\Users\antoi\Documents\programmation\langages\c#\mycontact\MyContact\MyContact\bin\Debug\MyContact.pdb
+C:\Users\antoi\Documents\programmation\langages\c#\mycontact\MyContact\MyContact\obj\Debug\MyContact.AddContactWindow.resources
+C:\Users\antoi\Documents\programmation\langages\c#\mycontact\MyContact\MyContact\obj\Debug\MyContact.MainWindow.resources
+C:\Users\antoi\Documents\programmation\langages\c#\mycontact\MyContact\MyContact\obj\Debug\MyContact.Properties.Resources.resources
+C:\Users\antoi\Documents\programmation\langages\c#\mycontact\MyContact\MyContact\obj\Debug\MyContact.csproj.GenerateResource.Cache
+C:\Users\antoi\Documents\programmation\langages\c#\mycontact\MyContact\MyContact\obj\Debug\MyContact.exe
+C:\Users\antoi\Documents\programmation\langages\c#\mycontact\MyContact\MyContact\obj\Debug\MyContact.pdb
+C:\Users\antoi\Documents\programmation\langages\c#\mycontact\MyContact\MyContact\obj\Debug\MyContact.AddNewGroupWindow.resources
